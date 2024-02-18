@@ -1,12 +1,9 @@
 '''
 =======================================
-Milestone 3
-
 Name : Fajar Ibrah Muhammad
-Batch : FTDS-HCK-011
 
 Objective : Program ini dibuat untuk automasi pembersihan/pengubahan data dan load data melalui postgre 
-            hingga di upload ke dalam elasticseach untuk nantinya dilakukan visualisasi menggunakan kibana.
+            hingga di upload ke dalam elasticsearch untuk nantinya dilakukan visualisasi menggunakan kibana.
 
 Dataset : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
